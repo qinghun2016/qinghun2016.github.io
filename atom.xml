@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-01T18:31:04.297Z</updated>
+  <updated>2018-07-06T16:41:40.231Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/07/07/aboutme/"/>
+    <id>http://yoursite.com/2018/07/07/aboutme/</id>
+    <published>2018-07-06T16:31:01.794Z</published>
+    <updated>2018-07-06T16:41:40.231Z</updated>
+    
+    <content type="html"><![CDATA[<div id="table-of-contents"><br><h2>Table of Contents</h2><br><div id="text-table-of-contents"><br><ul><br><li><a href="#sec-1">1. 简介</a><br><ul><br><li><a href="#sec-1-1">1.1. 技术栈</a><br><ul><br><li><a href="#sec-1-1-1">1.1.1. 大数据</a></li><br><li><a href="#sec-1-1-2">1.1.2. 微服务</a></li><br><li><a href="#sec-1-1-3">1.1.3. 数据库</a></li><br><li><a href="#sec-1-1-4">1.1.4. 其他</a></li><br><li><a href="#sec-1-1-5">1.1.5. 工具</a></li><br></ul><br></li><br><li><a href="#sec-1-2">1.2. 工作经历</a><br><ul><br><li><a href="#sec-1-2-1">1.2.1. 富士康科技</a></li><br></ul><br></li><br><li><a href="#sec-1-3">1.3. 其他</a></li><br></ul><br></li><br></ul><br></div><br></div><hr><p>title: 关于我<br>date: 2018-07-02 02:31:04</p><h2 id="tags-博客-简介"><a href="#tags-博客-简介" class="headerlink" title="tags: 博客 简介"></a>tags: 博客 简介</h2><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介<a id="sec-1" name="sec-1"></a></h1><hr><h2 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈<a id="sec-1-1" name="sec-1-1"></a></h2><h3 id="大数据"><a href="#大数据" class="headerlink" title="大数据"></a>大数据<a id="sec-1-1-1" name="sec-1-1-1"></a></h3><ol><li><p>spark</p><ol><li><p>java,scala,python环境下搭建</p></li><li><p>熟练使用sparkStreaming,sparkSQL相关API</p></li><li><p>DUF/UDAF/UDTF</p></li><li><p>数据倾斜</p></li><li><p>参数调优</p></li></ol></li><li><p>数据仓库</p><ol><li>维度建模</li></ol></li><li><p>HDFS</p></li><li><p>Flume</p></li><li><p>DataX</p></li><li><p>Nifi</p></li><li><p>Filebeat</p></li><li><p>Kafka</p></li><li><p>Hbase</p></li><li><p>Impala</p></li><li><p>Elasticsearch</p></li><li><p>Kinbana</p></li><li><p>MongoDB</p></li><li><p>Redis</p></li><li><p>Hive</p></li></ol><h3 id="微服务"><a href="#微服务" class="headerlink" title="微服务"></a>微服务<a id="sec-1-1-2" name="sec-1-1-2"></a></h3><ol><li><p>Spring Cloud</p></li><li><p>Eureka</p></li><li><p>Hystrix</p></li><li><p>Spring Cloud Stream</p></li><li><p>SpringBoot</p></li></ol><h3 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库<a id="sec-1-1-3" name="sec-1-1-3"></a></h3><ol><li><p>PostgreSQL</p></li><li><p>MySQL</p></li><li><p>Oracle</p></li><li><p>DB2</p></li></ol><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他<a id="sec-1-1-4" name="sec-1-1-4"></a></h3><ol><li><p>JavaScript</p></li><li><p>Shell</p></li><li><p>Lisp</p></li><li><p>AHK</p></li><li><p>PHP</p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具<a id="sec-1-1-5" name="sec-1-1-5"></a></h3><ol><li><p>Jinkens</p></li><li><p>Git</p></li><li><p>Jira</p></li><li><p>Wiki</p></li></ol><h2 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历<a id="sec-1-2" name="sec-1-2"></a></h2><h3 id="富士康科技"><a href="#富士康科技" class="headerlink" title="富士康科技"></a>富士康科技<a id="sec-1-2-1" name="sec-1-2-1"></a></h3><ol><li><p>经营管理工程师(2014.5-2015.4)</p><ol><li><p>损益分析</p><ol><li>分析报表</li></ol></li><li><p>成本控制</p><ol><li>经费审核</li></ol></li><li><p>生产计划</p></li></ol></li><li><p>北京银丰新融(2015.10-2016-10)</p><ol><li><p>反电信诈骗项目</p><ol><li><p>反诈骗算法(SQL)</p><ol><li><p>交易离散程度分析</p></li><li><p>交易频率与金额分析</p></li></ol></li><li><p>数据接口(Java,Shell)</p><ol><li><p>高法系统</p></li><li><p>公安系统</p></li><li><p>人行系统</p></li></ol></li><li><p>数据交换(Shell,Java)</p><ol><li><p>银行核心系统</p></li><li><p>银行数据仓库</p></li><li><p>8583报文</p></li></ol></li><li><p>少量前端(extjs)</p></li></ol></li><li><p>反洗钱</p><ol><li><p>数据交换</p></li><li><p>算法迁移</p></li></ol></li></ol></li><li><p>成都赛斯沃克(2016.10-2017.10)</p><ol><li><p>电信大数据平台</p><ol><li><p>数据分析及处理析(sparkSQL,scala)</p><ol><li><p>人流分析</p></li><li><p>区域分析</p></li><li><p>用户分析</p></li></ol></li><li><p>数据交换(Python,Shell)</p><ol><li><p>Postgresql 与 Spark</p></li><li><p>测试机模拟生产数据</p></li></ol></li><li><p>持续集成</p><ol><li><p>冒烟测试(Jinkens)</p></li><li><p>地图安装集成(PGSQL,Postgis,GeoServer)</p></li><li><p>项目安装(Shell,Python)</p></li></ol></li><li><p>技术预研</p><ol><li><p>Hbase</p></li><li><p>ThinkPHP</p></li><li><p>Angularjs</p></li><li><p>Nodjs</p></li></ol></li></ol></li></ol></li><li><p>某大型上市企业(2017.11-至今)</p><ol><li><p>项目度量</p><ol><li><p>数据接入</p><ol><li><p>准实时数据(Kafka,SparkStreaming)</p></li><li><p>离线数据(Flume,FileBeat,Nifi,DataX)</p></li><li><p>日志解析(正则)</p></li></ol></li><li><p>数据建模</p><ol><li>基于维度建模理论的数据模型设计</li></ol></li><li><p>工具开发</p><ol><li><p>Excel模型生成Hive表的工具</p></li><li><p>元数据查询接口</p></li><li><p>大数据查询微服务</p></li></ol></li></ol></li></ol></li></ol><h2 id="其他-1"><a href="#其他-1" class="headerlink" title="其他"></a>其他<a id="sec-1-3" name="sec-1-3"></a></h2><ul><li>AHK 提升工作效率 <del>游戏畅爽</del></li><li>Lisp 提升自我修养 <del>假装Geeker</del></li><li>GitHub 开阔视野 <del>假装老鸟</del></li><li>Excel 老司机 <del>用Excel做系统原型的傻帽</del></li><li>《物联网-未来已来》作者之一 <del>销量惨淡</del></li><li>重庆大学 工业工程 <del>除了C语言和SQL,基本和软件开发沾不上边</del></li><li>重庆某培训机构 学习Java <del>很黑心，已倒闭,但至今感念张哥带我上车</del></li><li>试图做3D打印消费级产品创业 未果 <del>至今欠债未偿清</del></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div id=&quot;table-of-contents&quot;&gt;&lt;br&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;&lt;br&gt;&lt;div id=&quot;text-table-of-contents&quot;&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;a href=&quot;#sec-1&quot;&gt;1. 简介&lt;/a&gt;&lt;br
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>qinghun2016</title>
